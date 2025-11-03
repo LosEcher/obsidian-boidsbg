@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-boidsbg",
+	"name": "Boids Background",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds a dynamic particle background effect using the boids flocking algorithm to your Obsidian editor.",
+	"author": "Boids Background Plugin",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
