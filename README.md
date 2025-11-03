@@ -2,6 +2,12 @@
 
 A dynamic particle background effect plugin for Obsidian that uses the boids flocking algorithm to create mesmerizing animated particles behind your editor content.
 
+
+## Samples
+![light mode sample](<CleanShot 2025-11-03 at 23.13.36.gif>)
+![dark mode sample](<CleanShot 2025-11-03 at 23.15.03.gif>)
+
+
 ## Features
 
 - **Dynamic Particle Animation**: Smooth, lifelike particle movement using the classic boids flocking algorithm
